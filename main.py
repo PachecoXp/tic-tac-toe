@@ -6,7 +6,7 @@ class TicTacToe:
     def __init__(self, root):
 
         self.root = root
-        self.root.title("Tic Tac Toe - Práctica Git")
+        self.root.title("Tic Tac Toe - Reset Version")
 
         self.turno = "X"
         self.tablero = [""] * 9
